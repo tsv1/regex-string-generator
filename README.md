@@ -1,5 +1,9 @@
 # Regex String Generator
 
+[![PyPI](https://img.shields.io/pypi/v/regex-string-generator.svg?style=flat-square)](https://pypi.python.org/pypi/regex-string-generator/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/regex-string-generator?style=flat-square)](https://pypi.python.org/pypi/regex-string-generator/)
+[![Python Version](https://img.shields.io/pypi/pyversions/regex-string-generator.svg?style=flat-square)](https://pypi.python.org/pypi/regex-string-generator/)
+
 ## Overview
 
 **Regex String Generator** is a Python package that allows you to generate random strings that match a given [regular expression](https://docs.python.org/3/library/re.html) pattern.
