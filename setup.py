@@ -8,7 +8,7 @@ def find_required():
 
 setup(
     name="regex-string-generator",
-    version="0.0.1",
+    version="0.1.0",
     description="Generates random strings that match a given regex pattern",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
